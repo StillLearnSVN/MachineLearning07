@@ -1,0 +1,10 @@
+Cluster Analysis Results
+======================
+
+Cluster 0 Top Keywords: kerumah, pulang, orangtua, kakak, kandung
+Cluster 1 Top Keywords: orang, tua, bertemu, rumah, pulang
+Cluster 2 Top Keywords: libur, semester, lebaran, paskah, natal
+Cluster 3 Top Keywords: keluarga, bertemu, acara, berkunjung, rumah
+Cluster 4 Top Keywords: orangtua, bertemu, rumah, mengunjungi, pulang
+Cluster 5 Top Keywords: pulang, rumah, keluarga, saudara, libur
+Cluster 6 Top Keywords: rumah, bermalam, exit, izin, saudara
