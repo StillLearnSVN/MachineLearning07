@@ -1,9 +1,0 @@
-Business Opportunity Prediction Project
-=====================================
-
-Project Objective: Predict business opportunities
-based on student permit purposes
-
-Key Insights:
-Total IB Entries: 78776
-Total IK Entries: 1590
