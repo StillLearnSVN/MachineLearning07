@@ -1,0 +1,156 @@
+{
+  "0": {
+    "keywords": [
+      "keluarga",
+      "bertemu",
+      "acara",
+      "berkunjung",
+      "rumah"
+    ],
+    "sample_purposes": [
+      "Ingin bertemu dengan keluarga dan ingin libur UAS",
+      "Rumah keluarga",
+      "Berkunjung ke tempat keluarga"
+    ],
+    "business_opportunities": []
+  },
+  "1": {
+    "keywords": [
+      "kerumah",
+      "pulang",
+      "keluarga",
+      "orangtua",
+      "kakak"
+    ],
+    "sample_purposes": [
+      "pulang kerumah",
+      "Balik kerumah",
+      "kembali kerumah"
+    ],
+    "business_opportunities": []
+  },
+  "2": {
+    "keywords": [
+      "pulang",
+      "rumah",
+      "keluarga",
+      "saudara",
+      "libur"
+    ],
+    "sample_purposes": [
+      "Pulang ke rumah",
+      "Pulang ke rumah",
+      "Pulang ke rumah"
+    ],
+    "business_opportunities": []
+  },
+  "3": {
+    "keywords": [
+      "lebaran",
+      "libur",
+      "liburan",
+      "keluarga",
+      "bertemu"
+    ],
+    "sample_purposes": [
+      "Libur lebaran dan bertemu keluarga",
+      "Libur Lebaran",
+      "Libur lebaran"
+    ],
+    "business_opportunities": []
+  },
+  "4": {
+    "keywords": [
+      "paskah",
+      "libur",
+      "merayakan",
+      "keluarga",
+      "perayaan"
+    ],
+    "sample_purposes": [
+      "Merayakan paskah",
+      "Paskah",
+      "paskah"
+    ],
+    "business_opportunities": []
+  },
+  "5": {
+    "keywords": [
+      "orangtua",
+      "bertemu",
+      "rumah",
+      "mengunjungi",
+      "pulang"
+    ],
+    "sample_purposes": [
+      "Bertemu dengan Orangtua",
+      "Bertemu dengan orangtua",
+      "Pulang ke rumah orangtua "
+    ],
+    "business_opportunities": []
+  },
+  "6": {
+    "keywords": [
+      "rumah",
+      "bermalam",
+      "exit",
+      "clearance",
+      "izin"
+    ],
+    "sample_purposes": [
+      "Pulang ke rumah teman",
+      "Acara tunangan saudara perempuan ",
+      "Periksa behel gigi"
+    ],
+    "business_opportunities": []
+  },
+  "7": {
+    "keywords": [
+      "semester",
+      "libur",
+      "magang",
+      "mbkm",
+      "liburan"
+    ],
+    "sample_purposes": [
+      "Libur akhir semester",
+      "Libur akhir semester",
+      "Libur akhir semester."
+    ],
+    "business_opportunities": []
+  },
+  "8": {
+    "keywords": [
+      "libur",
+      "natal",
+      "idul",
+      "raya",
+      "imlek"
+    ],
+    "sample_purposes": [
+      "Libur dan magang",
+      "Libur",
+      "Libur "
+    ],
+    "business_opportunities": []
+  },
+  "9": {
+    "keywords": [
+      "tua",
+      "orang",
+      "bertemu",
+      "rumah",
+      "pulang"
+    ],
+    "sample_purposes": [
+      "Bertemu orang tua",
+      "Bertemu orang tua",
+      "Bertemu Keluarga dan Orang tua"
+    ],
+    "business_opportunities": [
+      "Family Support Services",
+      "Travel Assistance",
+      "Family Reunion Planning"
+    ]
+  }
+}
