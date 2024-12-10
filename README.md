@@ -1,9 +1,11 @@
-# IT Del Student Log In-Log Out Analysis with Machine Learning
+# Business Opportunity Prediction using IB(Izin Bermalam),IK(Izin Keluar), KM(Keluar Masuk) Base On Students Historical Data
 
 ## Project Overview
-This project aims to analyze and predict IT Del student log in-log out behavior using machine learning techniques. The goal is to leverage log data to perform classification and prediction tasks, focusing on the time gaps between log in and log out events. This project is a part of the Machine Learning course, and it provides hands-on experience with the end-to-end machine learning workflow: from data preprocessing to model implementation and evaluation.
+This project aims to identifying patterns in students' overnight stay permissions (IB) and exit permissions (IK) using clustering algorithms to support strategic decision-making, uncover business opportunities based on student needs, and ensure the effective processing of permission data to generate relevant insights. The project aims to cluster student permission patterns, utilize clustering algorithms to identify potential business opportunities, and develop a data-driven analytical model to improve campus services and facilities.
 
 ## Objectives
-- To implement machine learning methods to classify and predict patterns in student login behavior.
-- To explore and utilize various machine learning models for both classification and regression.
-- To fine-tune models and achieve optimized performance for predictive accuracy and classification reliability.
+- To implement clustering algorithms (K-Means and Affinity Propagation) to identify patterns in students' overnight stay (IB) and exit permissions (IK).
+- To analyze permission data to uncover insights that support strategic decision-making for campus services and operations.
+- To explore potential business opportunities based on patterns detected in students' permission behaviors.
+- To develop a data-driven model that improves campus facilities and services by understanding students' needs.
+- To validate and evaluate the clustering model using metrics such as Silhouette Score, Calinski-Harabasz Score, and Davies-Bouldin Index for optimal performance.
